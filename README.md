@@ -1,12 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Alberto+%F0%9F%91%8B;AI+%26+ML+Engineering+Student;IoT+%7C+Python+%7C+Java+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Alberto+%F0%9F%91%8B;AI+%26+ML+Engineering+Student;Python+%7C+Java+%7C+IoT+Developer" alt="Typing SVG" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albertofg2)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/albertofg2)
-[![Uvigo Motorsport](https://img.shields.io/badge/Uvigo_Motorsport-FF0000?style=for-the-badge&logoColor=white)](https://www.uvigomotorsport.com/)
 
 </div>
 
@@ -14,10 +13,9 @@
 
 ## 🧠 About Me
 
-I'm **Alberto Freire Gomez**, an **Artificial Intelligence & Computer Engineering student** at the University of Vigo, passionate about machine learning, IoT systems, and software development. Currently contributing to **Uvigo Motorsport** — a student motorsport engineering team.
+I'm **Alberto Freire Gomez**, an **Artificial Intelligence & Computer Engineering student** at the University of Vigo, passionate about machine learning, IoT systems, and software development.
 
 - 🎓 Studying **Artificial Intelligence** at University of Vigo, Ourense
-- 🏎️ Member of **[Uvigo Motorsport](https://www.uvigomotorsport.com/)** — student motorsport engineering team
 - 🤖 Focused on **Machine Learning**, **AI** and **IoT systems**
 - 🌍 Based in **Ourense, Spain**
 - 📫 Reach me at: **[GitHub](https://github.com/albertofg2)**
@@ -74,12 +72,6 @@ I'm **Alberto Freire Gomez**, an **Artificial Intelligence & Computer Engineerin
 - 📡 IoT Communication Protocols (MQTT, CoAP)
 - ☁️ Cloud Computing & MLOps
 - 🔢 Advanced Data Science techniques
-
----
-
-## 🏎️ Uvigo Motorsport
-
-I'm part of **[Uvigo Motorsport](https://www.uvigomotorsport.com/)**, a student team from the University of Vigo that designs and builds motorsport vehicles. My role focuses on the software and AI side of the project.
 
 ---
 
