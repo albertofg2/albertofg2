@@ -1,42 +1,63 @@
-# Hi, I'm Alberto 👋
+<h1 align="center">Hi, I'm Alberto 👋</h1>
 
-Computer Science student (4th year) with a focus on **Artificial Intelligence**, **Machine Learning**, and **Software Engineering**.
+<p align="center">
+  <b>Computer Science student (4th year)</b><br/>
+  Focused on <b>Artificial Intelligence</b>, <b>Machine Learning</b> and <b>Software Engineering</b>
+</p>
 
----
-
-## Projects
-
-### AI & Reasoning
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [cbr-vehicle-appraiser](https://github.com/albertofg2/cbr-vehicle-appraiser) | Used-car price estimator using Case-Based Reasoning (CBR cycle: Retrieve → Reuse → Revise → Retain) | Python, CBRKit |
-| [cbr-vulnerability-analyzer](https://github.com/albertofg2/cbr-vulnerability-analyzer) | CVE severity predictor (CVSS score + attack vector) via CBR over a CVE/CWE case base | Python, CBRKit, SpaCy |
-| [bayesian-heart-diagnosis](https://github.com/albertofg2/bayesian-heart-diagnosis) | Heart attack risk estimation with a probabilistic graphical model and variable elimination inference | Python, pgmpy, NetworkX |
-
-### Algorithms & Search
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [rubik-solver](https://github.com/albertofg2/rubik-solver) | Rubik's Cube solver implementing BFS, DFS, IDDFS, Greedy, A\* and IDA\* | Python |
-| [connect4-ai](https://github.com/albertofg2/connect4-ai) | Connect 4 engine with Minimax and Alpha-Beta pruning; pluggable board evaluators | Java |
-
-### Machine Learning & Security
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [keystroke-auth](https://github.com/albertofg2/keystroke-auth) | User authentication by typing rhythm using K-Means, GMM and Agglomerative Clustering | Python, scikit-learn |
-
-### Software Engineering
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [domestic-robot-mas](https://github.com/albertofg2/domestic-robot-mas) | Multi-agent domestic robot simulation (MVC, Pygame, unit tests) | Python, Pygame |
+<p align="center">
+  <a href="https://www.linkedin.com/in/alberto-freire-gomez"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:albertogol21@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
-## Tech I work with
+## 🧠 About Me
 
-**Languages:** Python · Java · C++  
-**AI / ML:** scikit-learn · pgmpy · CBRKit · SpaCy · NLTK  
-**Other:** Pygame · Apache Spark · OpenCV · NetworkX
+- 🎓 4th year **Computer Science** student
+- 🤖 Passionate about **AI, ML & Reasoning systems**
+- 🔍 Exploring **Case-Based Reasoning**, **Bayesian Networks** and **Search Algorithms**
+- 🛠️ Love building clean, well-structured software
 
 ---
 
-📫 [LinkedIn](https://www.linkedin.com/in/albertofg2) · albertogol21@gmail.com
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+</p>
+
+### 🤖 AI / ML
+<p>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pgmpy-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CBRKit-6A4C93?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLTK-3E7C17?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+### 🔧 Other Tools
+<p>
+  <img src="https://img.shields.io/badge/Pygame-000000?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NetworkX-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=albertofg2&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertofg2&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+<p align="center">
+  <i>📌 Check out my pinned projects below!</i>
+</p>
